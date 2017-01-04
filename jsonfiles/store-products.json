@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Samsung Galaxy S7 Edge",
+    "description": "Awesome Android Powered Smartphone",
+    "price": 600,
+    "specs": " Snapdragon 821",
+    "images": [
+      "/AngularProject/images/samsung1.png",
+      "/AngularProject/images/samsung2.jpg",
+      "/AngularProject/images/samsung3.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Google Pixel",
+    "description": "Pure Android OS Smartphone from Google",
+    "price": 800,
+    "specs": " Snapdragon 821",
+    "images": [
+      "images/pixel1.jpg",
+      "images/pixel2.jpg",
+      "images/pixel3.jpeg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Iphone 7 Plus",
+    "description": "Modern IOS Powered Smartphone from Apple",
+    "price": 800,
+    "specs": " Apple A10 Chip",
+    "images": [
+      "/AngularProject/images/iphone7-1.png",
+      "/AngularProject/images/iphone7-2.png",
+      "/AngularProject/images/iphone7-3.jpg"
+    ],
+    "reviews": []
+  }
+]
